@@ -1,36 +1,106 @@
-Project Overview
-Project Name: Credit Card Financial Dashboard
-Objective: This project involves Credit Card Financial Dashboards that I’ve built with Power BI. The dashboards provide insights into customer behavior, transaction patterns, revenue generation, and financial trends over time. 
-There are two dashboards: Credit Card Transaction Report and Credit Card Customer Report.
-Data Overview:
-The dataset used in this project was sourced from an open dataset available online.
- It includes a variety of features related to credit card transactions and customer profiles, offering rich insights into customer behavior and financial metrics
- Dataset Highlights:
+📊 Credit Card Financial Dashboard
+1) Project Overview
+
+This project involves building Credit Card Financial Dashboards using Power BI.
+2)The dashboards provide insights into:
+
+Customer behavior
+
+Transaction patterns
+
+Revenue generation
+
+Financial trends over time
+
+3) Data Overview
+
+Dataset Source: Open dataset (publicly available online)
+
 Total Transactions: 656K
-Total Income: 576M
-Average Customer Satisfaction Score: 3.19Key Fields Included:
+
+Total Income: $576M
+
+Avg. Customer Satisfaction Score: 3.19
+
+4)Key Fields
+
 Card Category
+
 Gender
+
 Age
+
 Income Group
+
 Education
-Financial Metrics:
+
+📈 Financial Metrics
+
 Revenue
+
 Interest Earned
+
 Transaction Volume
-Dashboard Structure: This report focuses on the financial aspect of credit card transactions. It provides a broad view of how revenue and transaction volumes vary across different dimensions. Key Elements:  • KPI Cards: Overall Revenue, Interest, Transaction Amount & Count  Card Categories: Blue, Gold, Platinum, Silver • Trends: Revenue & Transaction Volume by Quarter • Demographics & Usage Analysis: • Revenue by Job, Education, Card Category, and Use Type • Expenditure Types and their revenue contributions The report is prepared with slicers for Quarter, Gender, Card Type, Income Group, and Start Date of Week to enable Dynamic Filtering.
 
-Business Value: identified top-performing customer segments such as businessmen, high-income earners, and graduates for focused marketing strategies.
-Revealed Blue Card holders as the most valuable group, guiding future card promotion strategies.
-Flagged high-risk customers with high credit utilization and poor repayment behavior for risk mitigation planning
-Enabled targeted upselling to Platinum cardholders with consistent spending and repayment patterns.
-Insights into spending behavior by category, like Bills, Entertainment, and Fuel, can help tailor targeted cashback or loyalty programs. 
- Gender-based revenue analysis helps in designing campaigns aimed at increasing Female engagement, especially in underperforming segments
-Conclusion:This project successfully delivered a comprehensive view of customer credit card usage, repayment behavior, and segment-wise performance.
- By using Power BI to visualize and analyze customer and card data, I was able to uncover valuable insights that helped the business.
-The dashboards offer clear visibility into key revenue drivers, customer behaviors, and transaction trends.
-  These insights can support data-driven decision-making across marketing, product strategy, and customer targeting.
+6) Dashboard Structure
+ Transaction Report (Financial View)
 
+KPI Cards: Revenue, Interest, Transaction Amount & Count
+
+Card Categories: Blue, Gold, Platinum, Silver
+
+Trends: Revenue & Transaction Volume by Quarter
+
+7) Customer Report (Demographics & Usage)
+
+Revenue by Job, Education, Card Category, and Use Type
+
+Expenditure Types & their revenue contributions
+
+8) Interactivity (Slicers)
+
+Quarter
+
+Gender
+
+Card Type
+
+Income Group
+
+Start Date of Week
+
+9) Business Value
+
+✅ Identified top-performing customer segments (businessmen, high-income earners, graduates) → focused marketing strategies
+✅ Revealed Blue Card holders as most valuable → future promotions
+✅ Flagged high-risk customers (high credit utilization + poor repayment) → risk mitigation planning
+✅ Enabled upselling to Platinum cardholders → consistent spenders & good repayment behavior
+✅ Spending insights (Bills, Entertainment, Fuel) → cashback & loyalty programs
+✅ Gender-based revenue analysis → targeted female engagement campaigns
+
+10) Conclusion
+
+This project successfully delivered a comprehensive view of customer credit card usage, repayment behavior, and segment-wise performance.
+
+Using Power BI, I was able to:
+
+Visualize & analyze customer and card data
+
+Uncover valuable insights into revenue drivers, customer behaviors, and transaction trends
+
+Provide a foundation for data-driven decision-making in:
+
+Marketing
+
+Product strategy
+
+Customer targeting
+
+11) Tools Used
+
+Power BI → Dashboard creation & visualization
+
+Excel / CSV → Dataset preparation
 
 
 
